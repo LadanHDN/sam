@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+
+}
+
+
+.border{
+    border-radius: 20px;
+}
+div.body>div.wrapper>div.menu{
+    height: 80px;
+}
+
+div.body>div.wrapper>div.menu>div.logo-holder{
+    background-color: blue;
+}
